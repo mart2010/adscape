@@ -1,0 +1,5 @@
+# how to configure Ollama's modelfile
+
+https://www.gpu-mart.com/blog/custom-llm-models-with-ollama-modelfile
+
+
